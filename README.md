@@ -1,2 +1,0 @@
-# windows
-Windows Client Onvoarding
